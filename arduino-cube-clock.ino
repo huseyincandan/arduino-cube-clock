@@ -7,7 +7,6 @@
 #include <SevenSegmentExtended.h>
 #include <virtuabotixRTC.h>
 
-
 const int CLK_Display = 6; //Set the CLK pin connection to the display
 const int DIO_Display = 5; //Set the DIO pin connection to the display
 const int btnHourPin = 2;
