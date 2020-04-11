@@ -9,8 +9,8 @@
 
 const int CLK_Display = 6; //Set the CLK pin connection to the display
 const int DIO_Display = 5; //Set the DIO pin connection to the display
-const int btnHourPin = 2;
-const int btnMinutePin = 3;
+const int btnHourPin = 3;
+const int btnMinutePin = 2;
 
 int hourInt = 0;
 int minuteInt = 0;
